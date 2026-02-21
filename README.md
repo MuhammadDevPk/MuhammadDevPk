@@ -1,3 +1,17 @@
+# Hi, I'm Malik Muhammad Awan 👋
+
+### 🛠 Full-Stack Web3 & Agentic AI Developer
+
+*3 Years of Engineering Experience*
+
+- 🤖 **Agentic AI:** Specialized in voice-first agents, tool-calling (Twilio/Google Cal), and multi-agent orchestration (Voxie).
+
+- ⛓️ **Web3 & Blockchain:** Expert in NFT-based infrastructure (Eureka/Toutix), gasless transactions, and on-chain security protocols.
+
+- 💻 **Full-Stack:** Proficient in Next.js 16, React 19, NestJS, Vue, Laravel, Langhchain, Langraph, and Solidity.
+
+---
+
 # 🎙️ [Agentic AI] Voxie — Enterprise AI Voice Agent Platform  
 **Repo:** voxie  
 
