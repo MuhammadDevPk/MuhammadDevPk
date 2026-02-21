@@ -33,13 +33,6 @@ A production-ready platform focused on seamless user onboarding. It offers gasle
 
 ---
 
-# 🛍️ [Integration] Voxhive GitHub Shopify App  
-**Repo:** Voxhive-Github  
-
-An enterprise-grade bridge between developer workflows and e-commerce. Built with Remix, Prisma, and Shopify App Bridge, it integrates GitHub data directly into the Shopify Admin panel using Polaris UI to automate store management tasks.
-
----
-
 # ⛓️ [Web3] Custom ERC721 Implementation  
 **Repo:** erc721  
 
@@ -51,3 +44,10 @@ A from-scratch implementation of the NFT standard built in Solidity without Open
 **Repo:** web3-wallet-connect / counterapp  
 
 Production-ready dApp starter kits utilizing Next.js 15, Wagmi v2, and Thirdweb SDK v5. These repositories focus on developer ergonomics, featuring optimized RPC architectures, type-safe contract interactions, and SSR-safe hydration logic.
+
+---
+
+# 🛍️ [Integration] Voxhive GitHub Shopify App  
+**Repo:** Voxhive-Github  
+
+An enterprise-grade bridge between developer workflows and e-commerce. Built with Remix, Prisma, and Shopify App Bridge, it integrates GitHub data directly into the Shopify Admin panel using Polaris UI to automate store management tasks.
