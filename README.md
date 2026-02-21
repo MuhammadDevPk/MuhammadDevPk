@@ -5,8 +5,15 @@ An advanced, multi-agent voice AI platform featuring a unique Meta-Agent that al
 
 ---
 
+# 🤖 [Agentic AI] Voxhive Voice AI Dental Agent  
+**Repo:** langflow  
+
+A production-ready vertical AI system that automates clinic scheduling. It orchestrates Twilio and Google Calendar to handle multi-turn conversations and book real appointments. Built using a Unified Agent Architecture to ensure high reliability compared to standard visual workflows.
+
+---
+
 # 💎 [Web3] Toutix — Premium Event Management & Anti-Scalping  
-**Repo:** toutix  
+**Repo:** toutix (Private Repo)
 
 A next-generation ticketing ecosystem designed to solve the multi-billion dollar scalping crisis. It features a hardcoded 110% price cap on resale, enforced ERC-2981 royalties, and HMAC-signed rotating QR codes that prevent duplicate physical entry. Built with Next.js 16, Drizzle ORM, and Base L2.
 
@@ -23,13 +30,6 @@ A high-performance blueprint for creator-fan interactions. This repository demon
 **Repo:** fan-engagement  
 
 A production-ready platform focused on seamless user onboarding. It offers gasless minting and social logins via Magic.link, allowing non-crypto users to purchase NFT tickets using credit cards or email. Includes a built-in marketplace with automated profit-splitting and Chainlink VRF-powered rewards.
-
----
-
-# 🤖 [Agentic AI] Voxhive Voice AI Dental Agent  
-**Repo:** langflow  
-
-A production-ready vertical AI system that automates clinic scheduling. It orchestrates Twilio and Google Calendar to handle multi-turn conversations and book real appointments. Built using a Unified Agent Architecture to ensure high reliability compared to standard visual workflows.
 
 ---
 
