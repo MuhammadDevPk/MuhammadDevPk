@@ -1,12 +1,34 @@
-# Hi, I'm Malik Muhammad Awan 👋
+# Hi, I'm Malik Muhammad Awan 👋  
 
-### 🛠 Full-Stack Web3 & Agentic AI Developer
+## 🚀 Building the Future of Autonomous & Decentralized Apps  
 
-*3 Years of Engineering Experience*
+I am a **Full-Stack Web3 & Agentic AI Developer** with 3 years of engineering experience. I specialize in the **Next.js 16 + Laravel + Solidity** stack, with a deep focus on **Agentic Engineering**.  
 
-- 🤖 **Agentic AI:** Specialized in voice-first agents, tool-calling (Twilio/Google Cal), and multi-agent orchestration (Voxie).
+My work ranges from low-level ERC-721 implementations to orchestrating complex AI dialogues for voice-first platforms. I am driven by the challenge of making Web3 user-friendly through gasless UX and making AI systems production-ready.
 
-- ⛓️ **Web3 & Blockchain:** Expert in NFT-based infrastructure (Eureka/Toutix), gasless transactions, and on-chain security protocols.
+---
+
+## 🎯 Current Focus  
+
+**Agentic AI Orchestration, Web3 Infrastructure, and solving the $billion-dollar event ticketing crisis through Toutix.**
+
+---
+
+## 🤖 Agentic AI  
+
+Specialized in voice-first agents, tool-calling (Twilio/Google Cal), and multi-agent orchestration like Voxie.
+
+---
+
+## ⛓️ Web3 & Blockchain  
+
+Expert in NFT-based infrastructure (Eureka/Toutix), gasless transactions, and on-chain security protocols.
+
+---
+
+## 💻 Full-Stack Stack  
+
+Proficient in: Next.js 16, React 19, NestJS, Vue, Laravel, LangChain, LangGraph, Solidity  
 
 - 💻 **Full-Stack:** Proficient in Next.js 16, React 19, NestJS, Vue, Laravel, Langhchain, Langraph, and Solidity.
 
