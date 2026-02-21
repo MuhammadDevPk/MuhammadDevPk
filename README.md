@@ -15,22 +15,17 @@ My work ranges from low-level ERC-721 implementations to orchestrating complex A
 ---
 
 ## 🤖 Agentic AI  
-
 Specialized in voice-first agents, tool-calling (Twilio/Google Cal), and multi-agent orchestration like Voxie.
 
 ---
 
 ## ⛓️ Web3 & Blockchain  
-
 Expert in NFT-based infrastructure (Eureka/Toutix), gasless transactions, and on-chain security protocols.
 
 ---
 
 ## 💻 Full-Stack Stack  
-
-Proficient in: Next.js 16, React 19, NestJS, Vue, Laravel, LangChain, LangGraph, Solidity  
-
-- 💻 **Full-Stack:** Proficient in Next.js 16, React 19, NestJS, Vue, Laravel, Langhchain, Langraph, and Solidity.
+Proficient in: Next.js 16, React 19, NestJS, Vue, Laravel, LangChain, LangGraph, Solidity 
 
 ---
 
