@@ -29,6 +29,10 @@ Proficient in: Next.js 16, React 19, NestJS, Vue, Laravel, LangChain, LangGraph,
 
 ---
 
+# Projects
+
+---
+
 # 🎙️ [Agentic AI] Voxie — Enterprise AI Voice Agent Platform  
 **Repo:** voxie  
 
