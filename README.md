@@ -2,7 +2,7 @@
 
 ## 🚀 Building the Future of Autonomous & Decentralized Apps  
 
-I am a **Full-Stack Web3 & Agentic AI Developer** with 3 years of engineering experience. I specialize in the **Next.js 16 + Laravel + Solidity** stack, with a deep focus on **Agentic Engineering**.  
+I am a **Full-Stack Web3 & Agentic AI Developer** with 3 years of engineering experience. I specialize in the **Next.js 16 + Laravel + Python + Langchain + Langraph + Solidity** stack, with a deep focus on **Agentic Engineering**.  
 
 My work ranges from low-level ERC-721 implementations to orchestrating complex AI dialogues for voice-first platforms. I am driven by the challenge of making Web3 user-friendly through gasless UX and making AI systems production-ready.
 
