@@ -2,7 +2,7 @@
 
 ## 🚀 Building the Future of Autonomous & Agentic Systems  
 
-I am a **Full-Stack Agentic AI Developer & Systems Engineer** with 3 years of engineering experience. I specialize in the **Next.js + Python + LangChain + LangGraph + Laravel** stack, with a deep focus on **Agentic Engineering** and high-performance Web Systems.  
+I am a **Full-Stack Agentic AI Developer & Systems Engineer** with 3 years of engineering experience. I specialize in the **Next.js + React + Vue + Python + LangChain + LangGraph + PHP + Laravel** stack, with a deep focus on **Agentic Engineering** and high-performance Web Systems.  
 
 My work ranges from orchestrating complex AI voice dialogues to engineering sub-millisecond multi-tenant EdTech engines. I am driven by the challenge of making AI systems production-ready and building ultra-fast platforms that scale seamlessly.
 
