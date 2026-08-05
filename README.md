@@ -1,88 +1,78 @@
 # Hi, I'm Malik Muhammad Awan 👋  
 
-## 🚀 Building the Future of Autonomous & Decentralized Apps  
+## 🚀 Building the Future of Autonomous & Agentic Systems  
 
-I am a **Full-Stack Web3 & Agentic AI Developer** with 3 years of engineering experience. I specialize in the **Next.js 16 + Laravel + Python + Langchain + Langraph + Solidity** stack, with a deep focus on **Agentic Engineering**.  
+I am a **Full-Stack Agentic AI Developer & Systems Engineer** with 3 years of engineering experience. I specialize in the **Next.js + Python + LangChain + LangGraph + Laravel** stack, with a deep focus on **Agentic Engineering** and high-performance Web Systems.  
 
-My work ranges from low-level ERC-721 implementations to orchestrating complex AI dialogues for voice-first platforms. I am driven by the challenge of making Web3 user-friendly through gasless UX and making AI systems production-ready.
+My work ranges from orchestrating complex AI voice dialogues to engineering sub-millisecond multi-tenant EdTech engines. I am driven by the challenge of making AI systems production-ready and building ultra-fast platforms that scale seamlessly.
 
 ---
 
 ## 🎯 Current Focus  
 
-**Agentic AI Orchestration, Web3 Infrastructure, and solving the $billion-dollar event ticketing crisis through Toutix.**
+**Agentic AI Orchestration, sub-millisecond EdTech architecture, and revolutionizing competitive exam preparation through Pak All Tests.**
 
 ---
 
 ## 🤖 Agentic AI  
-Specialized in voice-first agents, tool-calling (Twilio/Google Cal), and multi-agent orchestration like Voxie.
+Specialized in voice-first agents, tool-calling (Twilio/Google Cal), and multi-agent orchestration like Voxie and Voxhive.
 
 ---
 
-## ⛓️ Web3 & Blockchain  
-Expert in NFT-based infrastructure (Eureka/Toutix), gasless transactions, and on-chain security protocols.
+## 💻 Technical Stack  
+**Languages & Frameworks:** Next.js, React, Vue, Laravel, Python, LangChain, LangGraph, NestJS, TailwindCSS, TypeScript, PostgreSQL  
+**Architecture & Tools:** Agentic Workflows, Multi-Tenant EdTech Infrastructure, WebRTC, LiveKit, RESTful/GraphQL APIs, Distributed Systems  
 
 ---
 
-## 💻 Full-Stack Stack  
-Proficient in: Next.js 16, React 19, NestJS, Vue, Laravel, LangChain, LangGraph, Solidity 
+# 🛠️ Projects
 
 ---
 
-# Projects
-
----
-
-# 🎙️ [Agentic AI] Voxie — Enterprise AI Voice Agent Platform  
-**Repo:** voxie  
+### 🎙️ [Agentic AI] Voxie — Enterprise AI Voice Agent Platform  
+**Repo:** `voxie`  
 
 An advanced, multi-agent voice AI platform featuring a unique Meta-Agent that allows users to conversationally build and deploy specialized sub-agents. Built with WebRTC (LiveKit) and OpenAI’s Realtime API, it offers sub-second latency, full session persistence via Supabase, and automated post-call analytics.
 
 ---
 
-# 🤖 [Agentic AI] Voxhive Voice AI Dental Agent  
-**Repo:** langflow  
+### 🤖 [Agentic AI] Voxhive Voice AI Dental Agent  
+**Repo:** `langflow`  
 
 A production-ready vertical AI system that automates clinic scheduling. It orchestrates Twilio and Google Calendar to handle multi-turn conversations and book real appointments. Built using a Unified Agent Architecture to ensure high reliability compared to standard visual workflows.
 
 ---
 
-# 💎 [Web3] Toutix — Premium Event Management & Anti-Scalping  
-**Repo:** toutix (Private Repo)
+### ⚡ [EdTech] Pak All Tests — High-Performance AI EdTech Platform  
 
-A next-generation ticketing ecosystem designed to solve the multi-billion dollar scalping crisis. It features a hardcoded 110% price cap on resale, enforced ERC-2981 royalties, and HMAC-signed rotating QR codes that prevent duplicate physical entry. Built with Next.js 16, Drizzle ORM, and Base L2.
-
----
-
-# 🚀 [Web3] FanEngagementWeb3 — Full-Stack Masterclass  
-**Repo:** FanEngagementWeb3  
-
-A high-performance blueprint for creator-fan interactions. This repository demonstrates senior-level on-chain/off-chain synchronization, using a NestJS backend to securely bridge Supabase data with Ethereum events via ethers.js. Features an elite Next.js 14+ UI with RainbowKit integration.
+*The world's first sub-millisecond online EdTech platform engineered to revolutionize competitive exam preparation.*  
+Pak All Tests is an AI-powered, multi-tenant EdTech engine designed to eliminate latency and scaling bottlenecks in digital testing. Built to serve fast, frictionless evaluation workflows, it processes test generation, real-time analytics, and assessment modules in milliseconds.
 
 ---
 
-# 🎟️ [Web3] Eureka — Gasless NFT Ticketing Platform  
-**Repo:** fan-engagement  
+### 🎯 [EdTech] ISSB Preparation Platform  
 
-A production-ready platform focused on seamless user onboarding. It offers gasless minting and social logins via Magic.link, allowing non-crypto users to purchase NFT tickets using credit cards or email. Includes a built-in marketplace with automated profit-splitting and Chainlink VRF-powered rewards.
-
----
-
-# ⛓️ [Web3] Custom ERC721 Implementation  
-**Repo:** erc721  
-
-A from-scratch implementation of the NFT standard built in Solidity without OpenZeppelin libraries. This project showcases deep mastery of the EVM, featuring custom assembly for contract validation, gas-optimized storage, and robust authorization checks.
+Designed as an MVP to overcome specific learning gaps and streamline study workflows for candidates. Built initially for personal learning, the platform saw immediate adoption, scaling organically to **3,700+ unique page visitors within its first month**.
 
 ---
 
-# 🛠️ [Web3] Wallet Connect & CounterApp Boilerplates  
-**Repo:** web3-wallet-connect / counterapp  
+### 👻 [Productivity] GhostLayer (Ghost Coach)  
 
-Production-ready dApp starter kits utilizing Next.js 15, Wagmi v2, and Thirdweb SDK v5. These repositories focus on developer ergonomics, featuring optimized RPC architectures, type-safe contract interactions, and SSR-safe hydration logic.
+> *"Focus is the only currency. Spend it wisely."*  
+
+GhostLayer is a high-performance, frameless web overlay engine designed for engineers, students, and "vibe coders." It pins any reference site, documentation, or study paper directly over your workspace as a transparent, persistent layer that follows you across every Mac Desktop and Full-Screen app.
+
+**🔥 The Ghost Advantage:**
+* **Drag-Anywhere Physics:** Forget title bars. Click and grab any blank space on the website to move the window. It feels like a native part of your screen.
+* **Universal URL Engine:** Press `Cmd + L` to drop down a sleek, hidden address bar. Load Pak Shaheens, GitHub, or your Localhost dev server instantly without leaving your IDE.
+* **True Persistence:** Uses the screen-saver window level. It stays visible over everything—including full-screen browsers and code editors.
+* **Zero-Shadow Aesthetic:** 100% borderless. No annoying macOS shadows or borders when you switch focus back to your code.
 
 ---
 
-# 🛍️ [Integration] Voxhive GitHub Shopify App  
-**Repo:** Voxhive-Github  
+### ⛓️ [Web3 Infrastructure] Consolidated Web3 Ecosystem & Protocols  
+**Repos:** `toutix` | `FanEngagementWeb3` | `fan-engagement` | `erc721` | `web3-wallet-connect`  
 
-An enterprise-grade bridge between developer workflows and e-commerce. Built with Remix, Prisma, and Shopify App Bridge, it integrates GitHub data directly into the Shopify Admin panel using Polaris UI to automate store management tasks.
+A unified suite of decentralized applications and custom smart contract architectures:
+* **Anti-Scalping & Ticketing:** Ecosystems (Toutix & Eureka) built on Base L2 using HMAC-signed rotating QR codes, hardcoded resale price caps, gasless minting via Magic.link, and Chainlink VRF reward systems.
+* **On-Chain Sync & Engineering:** Full-stack creator-fan protocols featuring NestJS/Ethereum synchronization via ethers.js, paired with custom Yul assembly-optimized ERC-721 implementations built directly in Solidity without third-party frameworks.
