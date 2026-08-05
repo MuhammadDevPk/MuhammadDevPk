@@ -45,6 +45,7 @@ A production-ready vertical AI system that automates clinic scheduling. It orche
 
 ### ⚡ [EdTech] Pak All Tests — High-Performance AI EdTech Platform  
 
+### Repo: Pak All Tests (private)
 *The world's first sub-millisecond online EdTech platform engineered to revolutionize competitive exam preparation.*  
 Pak All Tests is an AI-powered, multi-tenant EdTech engine designed to eliminate latency and scaling bottlenecks in digital testing. Built to serve fast, frictionless evaluation workflows, it processes test generation, real-time analytics, and assessment modules in milliseconds.
 
@@ -57,6 +58,8 @@ Designed as an MVP to overcome specific learning gaps and streamline study workf
 ---
 
 ### 👻 [Productivity] GhostLayer (Ghost Coach)  
+
+### Repo:GhostCoach
 
 > *"Focus is the only currency. Spend it wisely."*  
 
