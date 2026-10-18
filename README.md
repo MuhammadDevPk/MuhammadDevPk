@@ -57,22 +57,6 @@ Designed as an MVP to overcome specific learning gaps and streamline study workf
 
 ---
 
-### 👻 [Productivity] GhostLayer (Ghost Coach)  
-
-### Repo:GhostCoach
-
-> *"Focus is the only currency. Spend it wisely."*  
-
-GhostLayer is a high-performance, frameless web overlay engine designed for engineers, students, and "vibe coders." It pins any reference site, documentation, or study paper directly over your workspace as a transparent, persistent layer that follows you across every Mac Desktop and Full-Screen app.
-
-**🔥 The Ghost Advantage:**
-* **Drag-Anywhere Physics:** Forget title bars. Click and grab any blank space on the website to move the window. It feels like a native part of your screen.
-* **Universal URL Engine:** Press `Cmd + L` to drop down a sleek, hidden address bar. Load Pak Shaheens, GitHub, or your Localhost dev server instantly without leaving your IDE.
-* **True Persistence:** Uses the screen-saver window level. It stays visible over everything—including full-screen browsers and code editors.
-* **Zero-Shadow Aesthetic:** 100% borderless. No annoying macOS shadows or borders when you switch focus back to your code.
-
----
-
 ### ⛓️ [Web3 Infrastructure] Consolidated Web3 Ecosystem & Protocols  
 **Repos:** `toutix` | `FanEngagementWeb3` | `fan-engagement` | `erc721` | `web3-wallet-connect`  
 
